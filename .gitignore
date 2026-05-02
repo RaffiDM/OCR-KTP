@@ -1,3 +1,4 @@
 .vscode/settings.json
+
 model-ktp-lokal/*
-!model-ktp-lokal/
+!model-ktp-lokal/.gitkeep
